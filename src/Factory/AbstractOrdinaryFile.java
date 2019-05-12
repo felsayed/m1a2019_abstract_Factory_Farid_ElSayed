@@ -14,4 +14,5 @@ public abstract class AbstractOrdinaryFile extends AbstractFile{
     public void setCap1(String cap1) {
         this.cap1 = cap1;
     }
+
 }
